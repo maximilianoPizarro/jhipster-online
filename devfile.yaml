@@ -23,7 +23,7 @@ projects:
 components:
   - name: tools
     container:
-      image: 'quay.io/maximilianopizarro/jhipster-quarkus@sha256:02b6aee0b49f8296418e3bf9805154a837574f943837e82556561ddb5ec001ae'
+      image: 'quay.io/maximilianopizarro/jhipster-quarkus@sha256:4019479cac314b4aa49941acdb08c3b99277b06adbce4d37b0ea186e5586e2b8'
       mountSources: true
       cpuLimit: '4'
       cpuRequest: '1'
